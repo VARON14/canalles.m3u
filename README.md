@@ -1,4 +1,3 @@
-# canalles.m3u
 #EXTM3U
 
 #EXTINF:-1 ,ESPN CO
