@@ -35,18 +35,18 @@ http://181.78.24.67:8010/play/a05w
 
 #EXTINF:-1 tvg-chno="9" tvg-name="WIN SPORTS + HD 5" group-title="COLOMBIA", Win Sports +
 
-http://181.78.12.119:16123/play/a041/index.m3u8
+http://200.41.79.165:8000/play/a0js
 
 #EXTINF:-1 tvg-chno="10" tvg-name="WIN SPORTS + HD 6" group-title="COLOMBIA", Win Sports +
 
-http://190.27.253.211:8000/play/a07g
+http://200.41.79.165:8000/play/a0js
 
 #EXTINF:-1 tvg-chno="11" tvg-name="WIN SPORTS + HD" group-title="COLOMBIA", WIN SPORTS + TV * |HD
 
 http://200.41.79.165:8000/play/a0js
 
 #EXTINF:-1 tvg-chno="12" tvg-name="WIN SPORTS + HD" group-title="COLOMBIA", Win Sports + FHD
-http://190.60.39.62:8000/play/a069
+http://200.41.79.165:8000/play/a0js
 
 #EXTINF:-1 tvg-chno="13" tvg-name="WIN SPORTS HD" group-title="COLOMBIA", WIN SPORTS HD
 http://181.78.24.67:8010/play/a00h
